@@ -1,5 +1,4 @@
 import styled from "styled-components"; 
-import { GlobalStyles } from "./styles";
 import Logo from "./15b5330956c2fc81a.jpg";  //Logo 이름은 자율대로 사용하면 된다 . logos나 g만 써도됨 .
 // styled-components 랑 차크라와는 차이가 있다 . 셋 다 좋은거니 써보도록! 교수님은 차크라 좋아하신다 하셨다! 
 // 다음 주 까진 익숙해지는게 최종 목표
